@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 49208f5fe28172143ba26fb7b7a3a632
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obj: {fileID: 5596973468480282910, guid: 4d5f8f42a054bb44abe444c812a200a9, type: 3}
+  - pre_boom: {fileID: 6800127571950211632, guid: 2bff6d434d3504b4bbed245dd3f17d8e,
+      type: 3}
+  - pre_thanos: {fileID: 8598505723223995242, guid: fc597bb2e816c92439bc090699b50e8d,
+      type: 3}
+  - obj_boom: {fileID: 3048406602324816891, guid: cfbac19cad16e79448411acb9f23e7c4,
+      type: 3}
+  - hpGauge: {fileID: 1095679883426100023, guid: c2616b07539403a4c949df9b8ede3570,
+      type: 3}
+  - scoreText: {instanceID: 0}
+  - move: {fileID: 8300000, guid: 171c258d76d614e428ffde59158bf53e, type: 3}
+  - explosion: {fileID: 8300000, guid: 5e42a0663f0af854ca591f4fc4037e03, type: 3}
+  - back: {fileID: 8300000, guid: 8f643e2b993bccb4499c5c14d009fd89, type: 3}
+  - enemy: {fileID: 8300000, guid: 2acf2bb573ade334eb0f142568c548bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
